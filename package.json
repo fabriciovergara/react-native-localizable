@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-localizable",
+  "version": "1.0.0",
+  "description": "React Native Localizable",
+  "license": "Apache 2.0",
+  "author": "https://github.com/fabriciovergal",
+  "homepage": "https://github.com/fabriciovergal/react-native-localizable",
+  "bugs": {
+    "url": "https://github.com/fabriciovergal/react-native-localizable/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabriciovergal/react-native-localizable"
+  },
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "localizable",
+    "ios",
+    "android"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
