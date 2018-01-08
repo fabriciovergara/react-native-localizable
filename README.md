@@ -26,11 +26,13 @@ Create Localizable.strings file as a normal iOS application.
 
 ### App side
 
+Javascript:
 ```javascript 
     import Localizable from 'react-native-localizable';
     console.log(Localizable.STRING_FROM_NATIVE);
  ```
  
+ Typescript: 
  ```typescript 
     import Localizable from 'react-native-localizable';
     
