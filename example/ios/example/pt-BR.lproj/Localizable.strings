@@ -1,0 +1,14 @@
+/*
+ Localizable.strings
+ example
+ 
+ Created by Fabricio Vergal on 08/01/18.
+ Copyright © 2018 Facebook. All rights reserved.
+ */
+
+"WELLCOME" = "Bem vindo ao React Native!";
+"GET_START" = "Para iniciar, edite App.js";
+"INSTRUCTIONS" = "Pressione Cmd+R para recarregar,\n Cmd+D ou balance para o menu de desenvolvedor";
+
+
+

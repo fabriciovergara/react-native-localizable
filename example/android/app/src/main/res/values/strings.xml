@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="WELLCOME">Welcome to React Native!</string>
+    <string name="GET_START">To get started, edit App.js</string>
+    <string name="INSTRUCTIONS">Double tap R on your keyboard to reload,\n Shake or press menu button for dev menu</string>
+</resources>

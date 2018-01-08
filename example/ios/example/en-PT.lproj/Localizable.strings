@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  example
+
+  Created by Fabricio Vergal on 08/01/18.
+  Copyright © 2018 Facebook. All rights reserved.
+*/
+
+"APP_NAME" = "RNLOCALIZABLE EXAMPLE EN-PT APP_NAME";
+"STRING_1" = "RNLOCALIZABLE EXAMPLE EN-PT STRING_1";
+"STRING_2" = "RNLOCALIZABLE EXAMPLE EN-PT STRING_2";
+"STRING_3" = "RNLOCALIZABLE EXAMPLE EN-PT STRING_3";

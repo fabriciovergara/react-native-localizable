@@ -1,0 +1,6 @@
+rootProject.name = 'example'
+
+include ':react-native-localizable'
+project(':react-native-localizable').projectDir = new File(rootProject.projectDir, '../../android')
+
+include ':app'
