@@ -19,10 +19,21 @@ protected List<ReactPackage> getPackages() {
     );
 }
 ```
-
+On strings.xml
+```xml
+<resources>
+    <string name="STRING_FROM_NATIVE">Hello from the NATIVE side, I must've called a thousand time...</string>
+</resources>
+```
 ### Instalation iOS 
 
 Create Localizable.strings file as a normal iOS application.
+
+On localizable.strings
+
+```
+"STRING_FROM_NATIVE" = "Hello from the NATIVE side, I must've called a thousand time...";
+```
 
 ### App side
 
