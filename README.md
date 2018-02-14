@@ -1,6 +1,6 @@
 # react-native-localizable
 
-Decrease your bundle size by using translation directly from native layer as native a normal native app :)
+Decrease your bundle.js size by using translation directly from native layer as native app :)
 
 ### Instalation
 ```
