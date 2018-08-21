@@ -29,7 +29,7 @@ On strings.xml
 
 Create Localizable.strings file as a normal iOS application.
 
-On localizable.strings
+On Localizable.strings
 
 ```
 "STRING_FROM_NATIVE" = "Hello from the NATIVE side, I must've called a thousand time...";
